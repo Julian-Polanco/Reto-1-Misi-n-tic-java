@@ -29,6 +29,7 @@ Una vez leidos los datos.
 Se tienen los datos de los siguientes pacientes:
 
 |Julian Andrade|723456   |45|Barranquilla|Sura   |cardiovasculares|
+|--------------|---------|--|------------|-------|----------------|
 |Andres Utria  |734673   |76|Barranquilla|Sanitas|Cáncer          |
 |Eva Molina    |104312456|32|Bogotá      |Sura   |Cáncer          |
 
