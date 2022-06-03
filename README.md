@@ -27,4 +27,24 @@ Una vez leidos los datos.
 
 **Ejemplo:**
 Se tienen los datos de los siguientes pacientes:
-|
+
+|Julian Andrade|723456   |45|Barranquilla|Sura   |cardiovasculares|
+|Andres Utria  |734673   |76|Barranquilla|Sanitas|Cáncer          |
+|Eva Molina    |104312456|32|Bogotá      |Sura   |Cáncer          |
+
+Ciudad con mayor número de pacientes: **Barranquilla**
+
+Las entradas y salidas del programa deben corresponder con lo expresado en la siguiente tabla. Para la entrada, indicar en una primera línea el número de pacientes, luego indicar los datos del paciente separados por guión medio (cada paciente en una línea diferente), y por último las ciudades separadas por guión medio.
+
+**Entrada Esperada**
+
+<pre><code>3
+Julian Andrade-723456-45-Barranquilla-Sura-cardiovasculares
+Andres Utria-734673-76-Barranquilla-Sanitas-cancer
+Eva Molina-104312456-32-Bogota-Sura-cáncer
+Barranquilla-Bogota
+</code></pre>
+
+**Salida Esperada**
+<pre><code>Barranquilla</code></pre>
+
